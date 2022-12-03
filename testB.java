@@ -10,6 +10,8 @@ Class Test{
 	System.out.println("hello from hamed");
 	System.out.println("hello from hamed same line");
 
+
+
 }
 
 
