@@ -6,7 +6,7 @@ Class Test{
 	System.out.println(x);
 
 	//change some code here 
-	System.out.println("hello from branch newbranch");
+	System.out.println("hello from master");
 
 }
 
