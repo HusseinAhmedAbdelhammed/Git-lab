@@ -8,6 +8,7 @@ Class Test{
 	//change some code here 
 	System.out.println("hello from master");
 	System.out.println("hello from hamed");
+	System.out.println("hello  from hamed same line");
 
 
 
